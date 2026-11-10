@@ -11,7 +11,7 @@
       "key": "OL-7A2F-0E8A-184E",
       "ips": ["127.0.0.1", "::1", "localhost"],
       "status": "active",
-      "expires": null,
+      "expires": "2027-12-31",
       "owner": "client-002"
     }
   ]
