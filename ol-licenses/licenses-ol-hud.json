@@ -12,7 +12,7 @@
       "ips": ["127.0.0.1", "::1", "localhost"],
       "status": "active",
       "expires": null,
-      "owner": "Dev / localhost"
+      "owner": "client-002"
     }
   ]
 }
